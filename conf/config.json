@@ -1,0 +1,13 @@
+{
+    "SrvAddr": "localhost",
+    "SrvPort": "9001",
+    "ClusterCfgPath": "conf/cluster/",
+    "ClusterPkiBasePath": "conf/pki/",
+    "BlockNetCfgBasePath": "conf/net/",
+    "BlockChainVersionCfg": "settings/version.json",
+    "NfsExternalAddr": "106.75.51.138",
+    "NfsInternalAddr": "172.16.254.33",
+    "NfsBasePath": "/home/nfs",
+    "NfsLocalRootDir": "nfs/",
+    "keyStorePath": "tmp/" 
+}
